@@ -1,7 +1,7 @@
 # Kaggle-Deep_Learning
 Videos in the deep learning series at kaggle.com/learn/deep-learning
 
-### Instructor: Dan Becker. Jesse Mostipak
+### Instructor: Dan Becker, Jesse Mostipak
 
 ## 1. Intro to Deep Learning and Computer Vision | Kaggle
 
